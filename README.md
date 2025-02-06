@@ -1,2 +1,2 @@
-# recommendation
-A recommendation system on Rec-Tmall
+# rec
+A recommender system on Rec-Tmall
